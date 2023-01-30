@@ -28,3 +28,5 @@ codecov==2.1.12
 
 # Utilities
 httpie==3.2.1
+
+Flask-Talisman
